@@ -31,7 +31,7 @@
 <script>
 export default {
   name: 'GithubRibbon',
-  data: () => ({ url: 'https://github.com/MichaelOtilla/CV' }),
+  data: () => ({ url: 'https://github.com/MichaelOtilla/myCV' }),
 }
 </script>
 

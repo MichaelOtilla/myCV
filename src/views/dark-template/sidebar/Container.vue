@@ -11,7 +11,7 @@
           Michael Roy <span class="light-blue--text text--lighten-3">Otilla</span>
         </h1>
         <span>
-          A challenge-loving web developer
+          An Invovative web developer
         </span>
       </div>
 
@@ -80,6 +80,11 @@ export default {
             {
               name: 'Email',
               icon: 'mdi-email',
+              text: 'otillamrm@gmail.com',
+            },
+            {
+              name: 'Mobile Number',
+              icon: 'mdi-phone',
               text: 'otillamrm@gmail.com',
             },
             {
@@ -164,7 +169,7 @@ export default {
             },
             {
               icon: 'mdi-android-debug-bridge',
-              text: 'Tickling Bugs!',
+              text: 'Debugging Bugs!',
             },
           ],
         },

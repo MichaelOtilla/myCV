@@ -466,7 +466,7 @@ export default {
         My responsibilities included:
         <ul>
           <li>Working with power supplies</li>
-          <li>Performing failure analyses when the module malfunctioned</li>
+          <li>Performing failure analysis when the module malfunctioned</li>
           <li>Reprogramming the communication module  of the power supply if necessary.</li>
         </ul> 
         `,
